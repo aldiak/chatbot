@@ -38,7 +38,6 @@ the following command to test it in the console.
 $ (env_name) python chat.py
 ```
 
-Now for deployment follow my tutorial to implement `app.py` and `app.js`.
 
 ## Credits:
 This repo was used for the frontend code:
